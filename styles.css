@@ -1,0 +1,89 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.links a {
+  margin-left: 15px;
+  text-decoration: none;
+  color: #000;
+}
+
+.logo {
+  margin: 100px 0 30px;
+}
+
+.search-bar {
+  width: 500px;
+  padding: 10px;
+  border: 1px solid #dfe1e5;
+  border-radius: 24px;
+  font-size: 16px;
+  outline: none;
+}
+
+.search-button {
+  background-color: #f8f9fa;
+  border: 1px solid #f8f9fa;
+  border-radius: 4px;
+  color: #000;
+  font-size: 14px;
+  margin: 15px 5px;
+  padding: 10px 16px;
+  cursor: pointer;
+}
+
+.lucky-button {
+  background-color: #f8f9fa;
+  border: 1px solid #f8f9fa;
+  border-radius: 4px;
+  color: #000;
+  font-size: 14px;
+  margin: 15px 5px;
+  padding: 10px 16px;
+  cursor: pointer;
+}
+
+.buttons {
+  margin-top: 20px;
+}
+
+.advanced-form {
+  text-align: left;
+  display: inline-block;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.form-group input {
+  width: 400px;
+  padding: 8px;
+  border: 1px solid #dfe1e5;
+  border-radius: 4px;
+}
+
+.advanced-button {
+  background-color: #4285f4;
+  border: none;
+  border-radius: 4px;
+  color: white;
+  font-size: 14px;
+  margin-top: 20px;
+  padding: 10px 16px;
+  cursor: pointer;
+}
